@@ -75,14 +75,14 @@ The SQL schema is located in `schema.sql`.
 
 ## Deployment Details
 1. Frontend Deployment
-Platform: Vercel
-Live URL: https://tally-invoicing-system.vercel.app
-The frontend is deployed using Vercel and automatically builds from the GitHub repository on every push to the main branch.
+- Platform: Vercel
+- Live URL: https://tally-invoicing-system.vercel.app
+- The frontend is deployed using Vercel and automatically builds from the GitHub repository on every push to the main branch.
 
 2.Database Deployment
-Platform: Railway
-Database Type: MySQL
-Dashboard Link: https://railway.app/dashboard
-The MySQL database is provisioned and hosted on Railway.
-It stores all application data including companies, products, and invoices.
+- Platform: Railway
+- Database Type: MySQL
+- Dashboard Link: https://railway.app/dashboard
+- The MySQL database is provisioned and hosted on Railway.
+- It stores all application data including companies, products, and invoices.
 
